@@ -7,7 +7,7 @@
  */
 
 #include "freertos/FreeRTOS.h"
-#include "esp_event.h"
+#include "freertos/task.h"
 
 void app_main(void)
 {
